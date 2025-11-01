@@ -1,0 +1,51 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+*.tmproj
+*.swp
+*.swo
+*~
+
+# OS Files
+*.bak
+*.log
+*.tmp
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Build files
+/dist/
+/build/
+
+# Environment files
+.env
+.env.local
+
+# Documentation (keep in repo but ignore if you prefer)
+# /docs/
+
+# Testing
+/tests/
+/phpunit.xml
+/.phpunit.result.cache
